@@ -12,6 +12,7 @@
         <div class="block">
           <h1>{{ .title | markdownify }}</h1>
           <p>{{ .content | markdownify }}</p>
+          <a href="https://lin.ee/4SIvYqT"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="42" border="0"></a>
           {{ if .button.enable }}
           {{ with .button }}
           <a href="{{ .link | relLangURL }}" target="_blank" class="btn btn-main animated fadeInUp">{{ .label }}</a>

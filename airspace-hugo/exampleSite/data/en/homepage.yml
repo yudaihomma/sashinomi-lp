@@ -1,32 +1,31 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
-  title : "A Digital Marketing <br/> & Design Agency"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "オンラインサシ飲み <br/> マッチングサービス"
+  content : "サシ飲み.comは、気の合う他人とサシ飲みできるオンライン環境を提供します"
   button:
-    enable : true
+    enable : false
     label : "Discover Our Project"
     link : "project"
 
 ######################### Portfolio ###############################
-portfolio:
-  enable : true
-  bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
-  content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+# portfolio:
+#   enable : true
+#   bg_image : "images/featue-bg.jpg"
+#   title : "WE BELIEVE IN GREAT IDEAS"
+#   content : "
+#   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+#   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-  "
-  button:
-    enable : true
-    label : "View Works"
-    link : "project"
+#   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+#   "
+#   button:
+#     enable : true
+#     label : "View Works"
+#     link : "project"
 
 ############################# Service ############################
 service:
