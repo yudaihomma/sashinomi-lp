@@ -42,77 +42,13 @@ link = "plugins/google-map/gmap.js"
 ############################## navigation ###############################
 
 # main menu
-[[menu.main]]
-name = "About"
-URL = "about"
-weight = 1
-
-[[menu.main]]
-name = "Project"
-URL = "project"
-weight = 2
-
-[[menu.main]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 4
-
-[[menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
-  
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 6
+# [[menu.main]]
+# name = "Contact"
+# URL = "contact"
+# weight = 6
 
 
 # footer menu
-[[menu.footer]]
-name = "About"
-URL = "about"
-weight = 1
-
-[[menu.footer]]
-name = "Project"
-URL = "project"
-weight = 2
-
-[[menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
-
-[[menu.footer]]
-name = "Contact"
-URL = "contact"
-weight = 6
 
 
 #################### default parameters ################################
@@ -186,16 +122,6 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
-home = "Home"
+# home = "Home"
 # copyright
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 Sashinomi.com All Rights Reserved"
